@@ -1,0 +1,16 @@
+# Pretrained model weights (large binary files - download separately, see README)
+*.caffemodel
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+cvenv/
+.venv/
+env/
+
+# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
